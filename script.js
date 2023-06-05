@@ -63,7 +63,7 @@ for (var i = 0; i < names.length; i++) {
   } else {
     //console.log("Hello " + names[i]);
     helloSpeaker.speak(names[i]);
-    //console.log(helloSpeaker.speak(names[i]));
+    //console.log(helloSpeaker.speak(names[i]));  
   }
 }
 
